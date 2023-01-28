@@ -44,4 +44,7 @@ cd GPT3_landingpage
 
 You should see the React logo and a link to "Learn React" on http://localhost:3000 in your browser.
 
+Deployed the site on vercel below is the link:
+https://gpt-3-landingpage.vercel.app/
+
 # Thank you!
