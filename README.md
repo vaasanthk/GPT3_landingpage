@@ -48,4 +48,6 @@ Deployed the site on vercel below is the link:
 
 <a href="https://gpt-3-landingpage.vercel.app/" target="_blank">GPT3</a>
 
+Figma Design - https://www.figma.com/file/lz9lLpFHMx...
+
 # Thank you!
